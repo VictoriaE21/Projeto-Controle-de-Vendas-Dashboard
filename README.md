@@ -18,6 +18,4 @@ Esse projeto é baseado num case onde uma empresa busca entender mais seu própr
 
   
 
-**Considerações Finais**
-
 
