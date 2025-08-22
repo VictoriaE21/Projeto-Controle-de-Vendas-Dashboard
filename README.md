@@ -17,5 +17,6 @@ Esse projeto é baseado num case onde uma empresa busca entender mais seu própr
 - Indicador de Meta de Faturamento (2019)
 
   
+**Fonte da Base de Dados:** Curso POWER BI & SQLSERVER - Professor Danilo Yto
 
 
