@@ -2,7 +2,9 @@
 
 **Sobre o Projeto** 
 
-Esse projeto é baseado num case onde uma empresa busca entender mais seu próprio negócio e quer acompanhar de forma dinâmica e prática o batimento de suas metas. A base de dados é disponibilizada por 03 arquivos xlsx, com dados de vendas dos anos 2017, 2018 e 2019. 
+Esse projeto é um Dashboard interativo de Controle e Análise de Vendas, desenvolvido em Microsoft Power BI. O projeto tem como objetivo fornecer uma visão abrangente dos anos de 2017, 2018 e 2019 e como se comportou o desempenho comercial da empresa nesses períodos, transformando dados brutos em insights acionáveis para a tomada de decisão estratégica. O dashboard foi meticulosamente elaborado para monitorar os Key Performance Indicators (KPIs) essenciais, permitindo que gestores e analistas visualizem tendências, identifiquem oportunidades e diagnostiquem desafios de forma rápida e intuitiva.
+
+
 
 **Insigths criados**
 
